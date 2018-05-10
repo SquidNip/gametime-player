@@ -1,3 +1,20 @@
+# THIS IS A CLONE
+
+I have cloned this from matthewbauer to try to remap the keys to something easier like
+
+```a = d
+b = c
+x = s
+y = x
+l bumper = a
+r bumper = z
+start = enter return
+space = select
+up = up
+down = down
+left = left
+right = right
+```
 # gametime-player
 
 A super simple JavaScript based libretro frontend.
